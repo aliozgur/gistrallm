@@ -2,7 +2,7 @@
   "catalogVersion": "1.0.0",
   "generatedAtUtc": "2026-04-18T00:00:00Z",
   "defaultChannel": "stable",
-  "version":"1.0.0",
+  "version":"v1.0.0",
   "models": [
     "gemma3_1b_it_q4_0",
     "qwen2.5-1.5b-instruct-q4_k_m"
