@@ -1,0 +1,32 @@
+{
+  "id": "gemma3_1b_it_q4_0",
+  "displayName": "Gemma 3 1B IT QAT - Q4_0",
+  "family": "gemma3",
+  "engine": "llama.cpp",
+  "format": "gguf",
+  "channel": "stable",
+  "version": "1.0.0",
+  "releaseTag": "v1.0.0-models",
+  "fileName": "gemma-3-1b-it-qat-q4_0.gguf",
+  "downloadUrl": "https://github.com/YOUR_ORG/gistrallm/releases/download/v1.0.0-models/gemma-3-1b-it-qat-q4_0.gguf",
+  "sha256": "REPLACE_WITH_REAL_SHA256",
+  "sizeBytes": 773094113,
+  "license": {
+    "name": "Gemma terms",
+    "url": "https://huggingface.co/google/gemma-3-1b-it-qat-q4_0-gguf"
+  },
+  "recommendedFor": [
+    "summary",
+    "tag_suggestion",
+    "bookmark_classification"
+  ],
+  "languages": [
+    "en",
+    "tr"
+  ],
+  "minRamGb": 4,
+  "defaultContextLength": 4096,
+  "defaultTemperature": 0.2,
+  "maxInputChars": 9000,
+  "notes": "Smaller and faster option. Review license terms before redistribution."
+}

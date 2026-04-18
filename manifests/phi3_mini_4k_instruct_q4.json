@@ -1,0 +1,33 @@
+{
+  "id": "phi3_mini_4k_instruct_q4",
+  "displayName": "Phi-3 Mini 4K Instruct - q4",
+  "family": "phi3",
+  "engine": "llama.cpp",
+  "format": "gguf",
+  "channel": "stable",
+  "version": "1.0.0",
+  "releaseTag": "v1.0.0-models",
+  "fileName": "Phi-3-mini-4k-instruct-q4.gguf",
+  "downloadUrl": "https://github.com/YOUR_ORG/gistrallm/releases/download/v1.0.0-models/Phi-3-mini-4k-instruct-q4.gguf",
+  "sha256": "REPLACE_WITH_REAL_SHA256",
+  "sizeBytes": 2362232012,
+  "license": {
+    "name": "MIT",
+    "url": "https://huggingface.co/microsoft/Phi-3-mini-4k-instruct-gguf"
+  },
+  "recommendedFor": [
+    "summary",
+    "key_points",
+    "compare",
+    "tag_suggestion"
+  ],
+  "languages": [
+    "en",
+    "tr"
+  ],
+  "minRamGb": 8,
+  "defaultContextLength": 4096,
+  "defaultTemperature": 0.2,
+  "maxInputChars": 14000,
+  "notes": "Higher-quality option for newer devices."
+}

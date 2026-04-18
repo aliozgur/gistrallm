@@ -1,0 +1,33 @@
+{
+  "id": "qwen2_5_1_5b_instruct_q4_k_m",
+  "displayName": "Qwen 2.5 1.5B Instruct - Q4_K_M",
+  "family": "qwen2.5",
+  "engine": "llama.cpp",
+  "format": "gguf",
+  "channel": "stable",
+  "version": "1.0.0",
+  "releaseTag": "v1.0.0-models",
+  "fileName": "qwen2.5-1.5b-instruct-q4_k_m.gguf",
+  "downloadUrl": "https://github.com/YOUR_ORG/gistrallm/releases/download/v1.0.0-models/qwen2.5-1.5b-instruct-q4_k_m.gguf",
+  "sha256": "REPLACE_WITH_REAL_SHA256",
+  "sizeBytes": 1202590848,
+  "license": {
+    "name": "Apache-2.0",
+    "url": "https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct-GGUF"
+  },
+  "recommendedFor": [
+    "summary",
+    "key_points",
+    "tag_suggestion",
+    "bookmark_classification"
+  ],
+  "languages": [
+    "en",
+    "tr"
+  ],
+  "minRamGb": 6,
+  "defaultContextLength": 4096,
+  "defaultTemperature": 0.2,
+  "maxInputChars": 12000,
+  "notes": "Balanced default offline model for Gistra."
+}

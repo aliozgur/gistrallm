@@ -1,0 +1,10 @@
+{
+  "catalogVersion": "1.0.0",
+  "generatedAtUtc": "2026-04-18T00:00:00Z",
+  "defaultChannel": "stable",
+  "models": [
+    "qwen2_5_1_5b_instruct_q4_k_m",
+    "gemma3_1b_it_q4_0",
+    "phi3_mini_4k_instruct_q4"
+  ]
+}
